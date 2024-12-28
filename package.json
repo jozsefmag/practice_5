@@ -1,0 +1,14 @@
+{
+    "name": "practice_05",
+    "version": "1.0.0",
+    "description": "Run Postman collections using Newman",
+    "scripts": {
+      "test": "newman run practice_05_request.json -e practice_05_environment.json"
+    },
+    "author": "József Mag",
+    "dependencies": {
+      "newman": "^5.4.0"
+    }
+  }
+  
+  

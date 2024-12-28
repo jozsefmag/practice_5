@@ -1,0 +1,28 @@
+{
+	"id": "73799e5d-8fcc-4bdb-b07a-00528ba4306e",
+	"name": "practice_05_env",
+	"values": [
+		{
+			"key": "APIKey",
+			"value": "4eccf23fa77c2961fa4425aeabb13c55",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "APIToken",
+			"value": "ATTA8c9f4c493147bafb9fd5b213e1ee8036a8c7b88e9a8667744fe94d0151a16d79832B3E1F",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "67602f7b5305a5db2e6ab199",
+			"some_extra_id_for_get_board":"6760319b7b380216870532cb 67603135801331f3ba3d5862 67602e635f2cb4c31992999d 6760328e299caf0659ac4d54 6760328f4ee7cb3d0f38826e",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-12-16T13:45:46.606Z",
+	"_postman_exported_using": "Postman/11.22.1"
+}
