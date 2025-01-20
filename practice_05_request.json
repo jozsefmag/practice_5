@@ -295,7 +295,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://api.trello.com/1/boards/678e7bc5841254fc62b0a52c?key={{APIKey}}&token={{APIToken}}",
+					"raw": "https://api.trello.com/1/boards/678ec343c24ee32b37e1a396?key={{APIKey}}&token={{APIToken}}",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -305,7 +305,7 @@
 					"path": [
 						"1",
 						"boards",
-						"678e7bc5841254fc62b0a52c"
+						"678ec343c24ee32b37e1a396"
 					],
 					"query": [
 						{
