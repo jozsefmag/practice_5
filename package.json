@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "eslint.config.js",
   "scripts": {
-    "test": "newman run practice_05_request.json -e practice_05_environment.json"
+    "test": "newman run practice_05_request.json -e practice_05_environment.json",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
     "prettier:write": "prettier . --write",
